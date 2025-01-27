@@ -46,7 +46,7 @@ const getResults = async () => {
 
     console.log("Merged Data =>", merged);
 
-
+return merged
 }
 
 export default getResults
